@@ -88,7 +88,7 @@ All submissions (in PDF format) should be submitted to [Microsoft CMT](https://c
 ## Important Dates
 All deadlines are 11:59PM AoE.
 
-| **Submission deadline:** | February 2, 2025 |
+| **Submission deadline:** | February 15, 2025 |
 | **Notifications:** | March 6, 2025 |
 | **Camera-ready deadline:** | March 25, 2025 |
 | **Workshop date:** | May 19, 2025 |
