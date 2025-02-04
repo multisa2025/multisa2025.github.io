@@ -37,10 +37,10 @@ Contemporary algorithms for time series management predominantly handle univaria
 
 This workshop will bring together researchers and practitioners working with multivariate time series, to present and discuss open problems and solutions, and to foster collaborations. Industry will participate for presenting requirements and current approaches, and to reach out to the ICDE community. Researchers will share their novel and ongoing work. The workshop will feature:
 (a) paper presentations (short papers and demos up to 4 pages, regular papers up to 8 pages -- excluding references),
-(b) two invited talks from industry and domain experts, 
+(b) invited talks from industry and domain experts, 
 (c) panel discussion, and time for fostering collaborations. 
 
-All accepted papers will be published by IEEE, in the ICDE workshop proceedings.
+All accepted papers will be published by IEEE, in the ICDE workshop proceedings -- alongside the ICDE conference proceedings.
 
 <!-- Back to top button -->
 <div class="go-to-top">
