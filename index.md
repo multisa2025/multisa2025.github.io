@@ -263,6 +263,7 @@ To be announced.
 - Xiaoou Ding, Harbin Institute of Technology
 - Yihao Ang, National University of Singapore
 - Zhenying He, Fudan University
+- Songgaojun (Amy) Deng, Eindhoven University of Technology 
 
 <!-- Back to top button -->
 <div class="go-to-top">
