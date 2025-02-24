@@ -35,12 +35,12 @@ excerpt: ""
 ## About
 Contemporary algorithms for time series management predominantly handle univariate time series. Modern data sources frequently generate richer, multivariate time series. Examples include sensors monitoring multiple variables (e.g., temperature, wind, rainfall), financial time series (bid/ask prices, volume), and data from scientific and medical equipment. Currently, only very few algorithms address the management, analysis, and extraction of insights from such multivariate data. Moreover, existing work is tailored to specific needs. Foundational functionalities that have propelled advancements in univariate time series analysis, e.g., indexing, cannot be trivially extended to the multivariate case. This limitation significantly restricts existing efforts for analyzing multivariate time series. 
 
-This workshop will bring together researchers and practitioners working with multivariate time series, to present and discuss open problems and solutions, and to foster collaborations. Industry will participate for presenting requirements and current approaches, and to reach out to the ICDE community. Researchers will share their novel and ongoing work. The full-day workshop will feature:
-(a) 10 paper presentations (short papers and demos up to 6 pages, long papers up to 12 pages),
-(b) two invited talks from industry and domain experts, 
+This workshop will bring together researchers and practitioners working with multivariate time series, to present and discuss open problems and solutions, and to foster collaborations. Industry will participate for presenting requirements and current approaches, and to reach out to the ICDE community. Researchers will share their novel and ongoing work. The workshop will feature:
+(a) paper presentations (short papers and demos up to 4 pages, regular papers up to 8 pages -- excluding references),
+(b) invited talks from industry and domain experts, 
 (c) panel discussion, and time for fostering collaborations. 
 
-The accepted papers will be included in the ICDEW proceedings.
+All accepted papers will be published by IEEE, in the ICDE workshop proceedings -- alongside the ICDE conference proceedings.
 
 <!-- Back to top button -->
 <div class="go-to-top">
@@ -51,14 +51,15 @@ The accepted papers will be included in the ICDEW proceedings.
 ## Topics of interest
 The topics of interest include (but are not limited to):
 - Open challenges in multivariate time series management
+- Foundation models for multivariate time series
+- Forecasting and anomaly detection for multivariate time series
+- Machine learning and deep learning techniques for multivariate time series
 - Similarity search on multivariate time series, and detection of multivariate correlations and similarity measures
 - Online analytical processing for multivariate time series 
 - Streaming and/or distributed analytics on multivariate time series
 - Storing, indexing, and querying multivariate time series
 - Sketching and summarizing multivariate time series
 - Data preparation (data cleaning, noise removal, handling missing values) on multivariate time series
-- Forecasting and anomaly detection for multivariate time series
-- Machine learning and deep learning techniques for multivariate time series
 - Interactive visualization and analytics on (streaming) multivariate time series
 - Handling uncertainty
 - Privacy-preserving analytics on multivariate data
@@ -88,9 +89,9 @@ All submissions (in PDF format) should be submitted to [Microsoft CMT](https://c
 ## Important Dates
 All deadlines are 11:59PM AoE.
 
-| **Submission deadline:** | February 2, 2025 |
-| **Notifications:** | March 6, 2025 |
-| **Camera-ready deadline:** | March 25, 2025 |
+| **Submission deadline:** | February 15, 2025 |
+| **Notifications:** | March 10, 2025 |
+| **Camera-ready deadline:** | March 24, 2025 |
 | **Workshop date:** | May 19, 2025 |
 
 <!-- Back to top button -->
@@ -240,28 +241,30 @@ To be announced.
 ---
 
 ## Program Committee
-To be announced.
-
-<!-- - Paul Boniol, Postdoctoral researcher at Ecole Normale Supérieure (ENS) Paris Saclay, France
-- Jessica Lin, Associate professor at George Mason University, USA 
-- Abdullah Mueen, Associate professor at University of New Mexico, USA
-- Patrick Schäfer, Postdoctoral researcher at the Humboldt University of Berlin
-- Saurabh Agrawal, Senior Machine Learning Engineer at Tubi, San Francisco, USA
-- Germain Forestier, Professor at University of Haute-Alsace, IRIMAS, France
-- Peng Wang, Professor at Fudan University, China
-- Shen Liang, Postdoctoral researcher at Université Paris Cité, France
-- Anthony Bagnall, Professor at University of Southampton, UK
-- Søren Kejser Jensen, Postdoctoral researcher at Aalborg University, Denmark
-- Michele Linardi, Assistant professor at ETIS lab, France
-- Karine Zeitouni, Professor at Université Paris-Saclay, France
-- John Paparrizos, Assistant Professor at Ohio State University, USA
-- Thorsten Papenbrock, Professor at Philipps-Universität Marburg, Germany
-- Qitong	Wang, Université Paris Cité
-- Tristan	Allard,	Associate professor at	Univ Rennes, CNRS, IRISA
-- Johann Gamper, Professor at	Free University of Bozen-Bolzano
-- Rodica	Neamtu, Professor at	Worcester Polytechnic Institute
-- Georgios	Chatzigeorgakidis, Postdoctoral researcher at Athena Research Center
-- Giorgos	Giannopoulos, Postdoctoral researcher at Athena Research Center -->
+- Anthony Bagnall, University of Southampton
+- Bin Yang, Aalborg University
+- Chen Wang,  Tsinghua University, China
+- Georgios Chatzigeorgakidis, Athena Research Center
+- Germain Forestier, University of Haute Alsace
+- Ioannis Psarros, Athena Research Center
+- Jens E. d'Hondt, Eindhoven University of Technology
+- Jessica Lin, George Mason University
+- Johann Gamper, Free University of Bozen-Bolzano
+- John Paparrizos, The Ohio State University
+- Michele Linardi, CYU
+- Patrick Schäfer, Humboldt-Universität zu Berlin
+- Paul Boniol, Inria, Ecole Normale Supérieure
+- Qitong Wang, Harvard University
+- Rodica Neamtu, Worcester Polytechnic Institute
+- Shaoxu Song, Tsinghua University
+- Shen Liang, Université Paris Cité
+- Søren Kejser Jensen, Aalborg University
+- Tristan Allard, Univ Rennes, CNRS, IRISA
+- Xiaofeng Gao, Shanghai Jiaotong University
+- Xiaoou Ding, Harbin Institute of Technology
+- Yihao Ang, National University of Singapore
+- Zhenying He, Fudan University
+- Songgaojun (Amy) Deng, Eindhoven University of Technology 
 
 <!-- Back to top button -->
 <div class="go-to-top">
