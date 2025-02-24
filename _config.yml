@@ -131,6 +131,8 @@ navigation_header:
   url: /#keynote-talks
 - title: Program Committee
   url: /#program-committee
+- title: Past Workshops
+  url: /#past-workshops
 
 navigation_footer:
 - title: Created by Jens d'Hondt

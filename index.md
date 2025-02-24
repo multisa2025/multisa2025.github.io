@@ -276,3 +276,12 @@ To be announced.
 <div class="go-to-top">
     <a href="#">[ Go to Top ]</a>
 </div>
+
+## Past Workshops
+- [MulTiSA 2024](https://multisa2024.org)
+
+
+<!-- Back to top button -->
+<div class="go-to-top">
+    <a href="#">[ Go to Top ]</a>
+</div>
