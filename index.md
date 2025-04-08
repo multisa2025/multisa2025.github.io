@@ -93,6 +93,7 @@ All deadlines are 11:59PM AoE.
 | **Notifications:** | March 10, 2025 |
 | **Camera-ready deadline:** | March 24, 2025 |
 | **Workshop date:** | May 19, 2025 |
+| **Registration deadline for accepted papers to appear in the proceedings:** | April 15, 2025 |
 
 <!-- Back to top button -->
 <div class="go-to-top">
