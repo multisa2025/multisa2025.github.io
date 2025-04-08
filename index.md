@@ -101,54 +101,35 @@ All deadlines are 11:59PM AoE.
 ---
 
 ## Program
-To be announced.
+**9:00 Welcome Message** 
 
-<!-- **9:00 Welcome Message** 
+**9:05 - 10:00 Keynote Talk 1**
 
-**9:05 - 10:00 Keynote Talk 1:** [Multivariate Time-Series in Airbus](#keynote-1-multivariate-time-series-in-airbus) \
-  Ammar Mechouche (Airbus Helicopters), Adil Soubki (Airbus Commercial)
+**10:00 - 10:30 Research Session 1**
+- [Variable Spatiotemporal Framework for Multivariate Time Series Prediction](#program) (18 min) \
+    Xu, Chen*; Wang, Qiang; Wu, Yiyang; Li, Lianxing
 
-**10:00 - 10:30 Coffee Break**
+**10:30 - 11:00 Coffee Break**
 
-**10:30 - 12:00 Research Session 1**
-- [Parameter-free Streaming Distance-based Outlier Detection](#program) (10 min) \
-    Apostolos Giannoulidis (Aristotle University of Thessaloniki)*; Nikodimos Nikolaidis (Atlantis Engineering); Anastasios Gounaris (Aristotle University of Thessaloniki)
-- [Data-Hungry Fault Detection Algorithms Can Try Transfer Learning for Starters](#program) (10 min) \
-    Jurgen van den Hoogen (Osnabrück University)*; Dan Hudson (Osnabrück University); Martin Atzmueller (Osnabrück University & DFKI)
-- [Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting](#program) (15 min) \
-    Mandani Ntekouli (Maastricht University)*; Gerasimos Spanakis (Maastricht University); Lourens Waldorp (University of Amsterdam); Anne Roefs (Maastricht University)
-- [MultiCast: Zero-Shot Multidimensional Time Series Forecasting Using LLMs](#program) (15 min) \
-    Georgios Chatzigeorgakidis (Athena Research Center)*; Konstantinos Lentzos (Athena Research Center); Dimitrios Skoutas (Athena Research Center)
-- [Subset Models for Multivariate Time Series Forecast](#program) (10 min) \
-    Raphael F Saldanha (Inria)*; Victor Ribeiro (LNCC); Eduardo Pena (UTFPR); Marcel Pedroso (Fiocruz); Reza Akbarinia (INRIA); Patrick Valduriez (INRIA); Fabio Porto (LNCC)
-- [Challenges in Modeling Drug Shortage Events in the Pharmaceutical Domain](#program) (10 min) \
-    Laura-Maria Tolosi-Halacheva (Teva Pharmaceuticals)*; Eran Nevo (Teva Pharmaceuticals); Radoslav Andreev (Teva Pharmaceuticals); Oleg Shcherbakov (Teva Pharmaceuticals)
-- [Time Series Problems in the Energy Sector](#program) (10 min) \
-    Christos Dalamagkas (Public Power Corporation); Angelos Georgakis (Public Power Corporation); Kostas Hrissagis-Chrysagis (Public Power Corporation); George Papadakis (University of Athens)* 
+**11:00 - 12:00 Keynote Talk 2**
 
-**12:00 - 13:30 Lunch Break**
+**12:00 - 12:30 Research Session 2**
+- [ChronoTab: Forecasting Multivariate Time Series with Tabular LLMs](#program) (18 min) \
+    Zeakis, Alexandros*; Chatzigeorgakidis, Giorgos; Lentzos, Konstantinos; Skoutas, Dimitrios
 
-**13:30 - 15:00 Research Session 2**
-- [Data Augmentation for Multivariate Time Series Classification: An Experimental Study](#program) (15 min) \
-    Romain Ilbert (Huawei Paris Research Center)*; Thai V. Hoang (TH Consulting); Zonghua Zhang (CRSC)
-- [Extended Framework and Evaluation for Multivariate Streaming Anomaly Detection with Machine Learning](#program) (15 min) \
-    Andreas Koch (Technical University of Munich)*; Michael Petry (Airbus Defence and Space / Technical University of Munich); Martin Werner (TU München)
-- [Anomaly Detectors for Multivariate Time Series: The Proof of the Pudding is in the Eating](#program) (10 min) \
-    Phillip Wenig (Hasso Plattner Institute, University of Potsdam)*; Sebastian Schmidl (Hasso Plattner Institute, University of Potsdam); Thorsten Papenbrock (Philipps University of Marburg)
-- [Linear-trend normalization for multivariate subsequence similarity search](#program) (15 min) \
-    Thibaut Germain (ENS Paris Saclay)*; Charles Truong (ENS Paris Saclay); Laurent Oudre (ENS Paris Saclay)
-- [Beyond the Dimensions: A Structured Evaluation of Multivariate Time Series Distance Measures](#program) (10 min) \
-    Jens d'Hondt (Eindhoven University of Technology)*; Odysseas Papapetrou (TU Eindhoven); John Paparrizos (The Ohio State University)
-- [Towards Ptolemaic metric properties of the z-normalized Euclidean distance for multivariate time series indexing](#program) (10 min) \
-    Max Pernklau (FernUniversität in Hagen)*; Christian Beecks (FernUniversität in Hagen)
-  
-**15:00 - 15:30 Coffee Break**
+**12:30 - 14:00 Lunch Break**
 
-**15:30 - 16:30 Keynote Talk 2:** [Multivariate time series in healthcare: challenges and open questions](#keynote-2-multivariate-time-series-in-healthcare-challenges-and-open-questions) \
-  Laurent Oudre, Centre Borelli, ENS Paris Saclay 
+**14:00 - 15:30 Panel Discussion**
 
-**16:30 - 17:30 Panel Discussion**\
-Panelists: Ammar Mechouche, Adil Soubki, Laurent Oudre, and John Paparrizos -->
+**15:30 - 16:00 Coffee Break**
+
+**16:00 - 17:30 Research Session 3**
+- [MI4TSC: Evaluating Missing Value Imputation Methods for Time Series Classification](#program) (18 min) \
+    Ding, Xiaoou*; Peng, Cong; Zhou, Muyun; Wang, Hongzhi; Pei, Zhongyi; Wang, Chen; Wang, Jianmin
+- [User-friendly Foundation Model Adapters for Multivariate Time Series Classification](#program) (18 min) \
+    Ilbert, Romain*; Feofanov, Vasilii; Tiomoko, Malik; Redko, Ievgen; Palpanas, Themis
+- [MULISSE: Variable-Length Similarity Search for Multivariate Time Series](#program) (18 min) \
+    Pelok, Balázs; d'Hondt, Jens*
 
 <!-- Back to top button -->
 <div class="go-to-top">
