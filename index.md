@@ -105,7 +105,7 @@ All deadlines are 11:59PM AoE.
 **9:00 Welcome Message** 
 
 **9:05 - 10:00 [Keynote Talk 1: Multivariate Time Series Management and Analysis: An Apache IoTDB Solution](#keynote-talks)**
-*Shaoxu Song, Tsinghua University*
+- *Shaoxu Song, Tsinghua University*
 
 **10:00 - 10:30 Research Session 1**
 - [Variable Spatiotemporal Framework for Multivariate Time Series Prediction](#program) (18 min) \
