@@ -102,35 +102,35 @@ All deadlines are 11:59PM AoE.
 ---
 
 ## Program
-**9:00 Welcome Message** 
+- **9:00 Welcome Message**
 
-**9:05 - 10:00 [Keynote Talk 1: Multivariate Time Series Management and Analysis: An Apache IoTDB Solution](#keynote-talks)**
-- *Shaoxu Song, Tsinghua University*
+- **9:05 - 10:00 [Keynote Talk 1: Multivariate Time Series Management and Analysis: An Apache IoTDB Solution](#keynote-talks)** \
+*Shaoxu Song, Tsinghua University*
 
-**10:00 - 10:30 Research Session 1**
-- [Variable Spatiotemporal Framework for Multivariate Time Series Prediction](#program) (18 min) \
+- **10:00 - 10:30 Research Session 1**
+  - [Variable Spatiotemporal Framework for Multivariate Time Series Prediction](#program) (18 min) \
     Xu, Chen*; Wang, Qiang; Wu, Yiyang; Li, Lianxing
 
-**10:30 - 11:00 Coffee Break**
+- **10:30 - 11:00 Coffee Break**
 
-**11:00 - 12:00 Keynote Talk 2**
+- **11:00 - 12:00 Keynote Talk 2**
 
-**12:00 - 12:30 Research Session 2**
-- [ChronoTab: Forecasting Multivariate Time Series with Tabular LLMs](#program) (18 min) \
+- **12:00 - 12:30 Research Session 2**
+  - [ChronoTab: Forecasting Multivariate Time Series with Tabular LLMs](#program) (18 min) \
     Zeakis, Alexandros*; Chatzigeorgakidis, Giorgos; Lentzos, Konstantinos; Skoutas, Dimitrios
 
-**12:30 - 14:00 Lunch Break**
+- **12:30 - 14:00 Lunch Break**
 
-**14:00 - 15:30 Panel Discussion**
+- **14:00 - 15:30 Panel Discussion**
 
-**15:30 - 16:00 Coffee Break**
+- **15:30 - 16:00 Coffee Break**
 
-**16:00 - 17:30 Research Session 3**
-- [MI4TSC: Evaluating Missing Value Imputation Methods for Time Series Classification](#program) (18 min) \
+- **16:00 - 17:30 Research Session 3**
+  - [MI4TSC: Evaluating Missing Value Imputation Methods for Time Series Classification](#program) (18 min) \
     Ding, Xiaoou*; Peng, Cong; Zhou, Muyun; Wang, Hongzhi; Pei, Zhongyi; Wang, Chen; Wang, Jianmin
-- [User-friendly Foundation Model Adapters for Multivariate Time Series Classification](#program) (18 min) \
+  - [User-friendly Foundation Model Adapters for Multivariate Time Series Classification](#program) (18 min) \
     Ilbert, Romain*; Feofanov, Vasilii; Tiomoko, Malik; Redko, Ievgen; Palpanas, Themis
-- [MULISSE: Variable-Length Similarity Search for Multivariate Time Series](#program) (18 min) \
+  - [MULISSE: Variable-Length Similarity Search for Multivariate Time Series](#program) (18 min) \
     Pelok, Balázs; d'Hondt, Jens*
 
 <!-- Back to top button -->
