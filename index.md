@@ -104,7 +104,8 @@ All deadlines are 11:59PM AoE.
 ## Program
 **9:00 Welcome Message** 
 
-**9:05 - 10:00 Keynote Talk 1**
+**9:05 - 10:00 [Keynote Talk 1: Multivariate Time Series Management and Analysis: An Apache IoTDB Solution](#keynote-talks)**
+*Shaoxu Song, Tsinghua University*
 
 **10:00 - 10:30 Research Session 1**
 - [Variable Spatiotemporal Framework for Multivariate Time Series Prediction](#program) (18 min) \
@@ -140,7 +141,7 @@ All deadlines are 11:59PM AoE.
 
 ## Panelists
 <div class="profile-card">
-<img src="https://github.com/user-attachments/assets/db23a84c-1611-4ee9-9997-76d3b2f2f930" alt="Bin"> -->
+<img src="https://github.com/user-attachments/assets/db23a84c-1611-4ee9-9997-76d3b2f2f930" alt="Bin">
 <div class="profile-info">
     <h4>Bin Yang</h4>
     <p>East China Normal University</p>
@@ -187,19 +188,14 @@ All deadlines are 11:59PM AoE.
 ---
 
 ## Keynote Talks
-To be announced.
+##### Keynote 1: Multivariate Time Series Management and Analysis: An Apache IoTDB Solution
+*Shaoxu Song, Tsinghua University*
 
-<!-- ##### Keynote 1: Multivariate Time-Series in Airbus 
-*Ammar Mechouche, Airbus Helicopters; Adil Soubki, Airbus Commercial*
+**Abstract:** Multivariate time series are now prevalent, especially in the IoT scenarios, for monitoring massive devices and supporting decision making. In this talk, we will first introduce some typical scenarios of managing and analyzing multivariate time series, and give an overview on how Apache IoTDB can meet such user requirements. Our solution ranges from storage, compression and curation for time series management, to statistical analysis, machine learning and pre-trained models integrated with the database. We will also share several use cases of IoTDB in real-world applications, and indicate some future directions to advance the study further.
 
-**Abstract:** This presentation is about Airbus time series coming from testing aircrafts and operating helicopters. First, the collection and management of these data are briefly described. Then, it is shown how these time series data are organized and stored in order for their processing to be performant. After that, some Airbus made tools, dedicated to time series analysis, are presented. Finally, a focus is made on problems / challenges emerging from the analysis of these multivariate data series, encountered in the framework of predictive maintenance and automatic events detection in testing data.
+**Bio:** Shaoxu Song is an Associate Professor in the School of Software at Tsinghua University. His research interests include timeseries database, data quality and data mining. He has published more than 80 research papers in top journals and conferences in the area, such as TODS, VLDBJ, TKDE, SIGMOD, KDD, VLDB, and ICDE. Dr. Song served in the editorial (review) boards of PVLDB, JDIQ, JCST and ESWA, the PC Vice-Co-Chair of IEEE BigData 2022/2025 and Area Chair of ACM KDD 2025. He received Outstanding/Distinguished Reviewer awards from KDD 2025, ICDE 2024, VLDB 2019 and CIKM 2017. He is a Senior Member of IEEE.
 
-##### Keynote 2: Multivariate time series in healthcare: challenges and open questions 
-*Laurent Oudre, Centre Borelli, ENS Paris Saclay*
-
-**Abstract:** Most sensors currently used in healthcare (EEG, 3D motion analysis, accelerometry, ECG...) produce multivariate time series. The different dimensions of these time series are often highly correlated and structured, and prior knowledge of the structure can help to improve the way these signals are handled and processed. In this talk we will discuss some strategies to exploit this additional information for various tasks such as change point detection or filtering, with applications to gait analysis and EEG data. The talk will also provide an introductory overview of the promising framework of Graph Signal Processing (GSP), along with a discussion of the main remaining challenges and open questions in this area.
-
-[Link to Slides](https://github.com/multisa2025/multisa2025.icde/files/15389208/PlenaryICDE2025_LOudre.pdf) -->
+##### Keynote 2: To be announced
 
 <!-- Back to top button -->
 <div class="go-to-top">
