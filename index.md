@@ -139,40 +139,37 @@ All deadlines are 11:59PM AoE.
 ---
 
 ## Panelists
-To be announced.
+<div class="profile-card">
+<img src="https://github.com/user-attachments/assets/db23a84c-1611-4ee9-9997-76d3b2f2f930" alt="Bin"> -->
+<div class="profile-info">
+    <h4>Bin Yang</h4>
+    <p>East China Normal University</p>
+</div>
+</div>
+
+**Bio:** Bin Yang is Chair Professor at School of Data Science and Engineering, East China Normal University. He has been a Full Professor in Department of Computer Science, Aalborg University, Denmark. Previously, he was at Max-Planck-Institut für Informatik, Germany, and at Aarhus University, Denmark. He obtained his Ph.D. degree from Fudan University. His research interests cover artificial intelligence and data governance, with a focus on enabling data driven decision making with time series and spatio-temporal data. Recently, much of his research concerns the AGREE principles—Automation, Generalization, Robustness, Explainability, and Efficiency, on a variety of tasks, e.g., forecasting, outlier detection, classification, ranking, searching, and decision making.
+
+<div class="profile-card">
+<img src="https://github.com/user-attachments/assets/de62dece-4313-451d-9a7d-482f1be0ded2" alt="Byron">
+<div class="profile-info">
+    <h4>Byron Choi</h4>
+    <p>Hong Kong Baptist University</p>
+</div>
+</div>
+
+**Bio:** Byron Choi obtained his Ph.D and MSE degrees in Computer and Information Science from the University of Pennsylvania in 2006 and 2001, respectively. He received his Bachelor of Engineering degree (with first-class honours) in Computer Engineering from the Hong Kong University of Science and Technology (HKUST). He was awarded the IEEE (Hong Kong Section) prize in 1999. Before joining the Hong Kong Baptist University, He was an Assistant Professor at School of Computer Engineering / Nanyang Technological University (NTU) for three years between 2005 and 2008. He was a research associate at the University of Edinburgh in 2005 and a summer student intern for the Galax project at AT&T Labs Florham Park. He also visited the HKUST theoretical computer science group in 2003.
+
+<div class="profile-card">
+<img src="https://github.com/user-attachments/assets/2195a9de-45a6-42ff-a19d-233484dd3f6e" alt="Mourad">
+<div class="profile-info">
+    <h4>Mourad Khayati</h4>
+    <p>University of Fribourg, Switzerland</p>
+</div>
+</div>
+
+**Bio:** Mourad Khayati is a Senior Researcher and a Lecturer with the eXascale Infolab group and the Advanced Software Engineering group, respectively, at the Department of Computer Science of the University of Fribourg, Switzerland. He obtained his PhD from the University of Zurich, Switzerland, under the supervision of Prof. Michael Böhlen. His research interests include Time Series analytics and data quality with a special focus on temporal data repair/cleaning. He is the recipient of the VLDB 2020 Best Experiments and Analysis Paper Award.
 
 <!-- <div class="profile-card">
-<img src="https://github.com/multisa2025/multisa2025.icde/assets/45044727/48954c29-aaa8-46d8-ada3-75bdfeb04808" alt="Ammar">
-<div class="profile-info">
-    <h4>Ammar Mechouche</h4>
-    <p>Airbus Helicopters</p>
-</div>
-</div>
-
-**Bio:** Ammar Mechouche is a Big Data & Advanced Analytics expert at Airbus Helicopters (AH). He joined Airbus in 2013 as a research engineer. He first developed a big data solution which enables the processing of the big amounts of time series data collected from helicopters flying worldwide. He has been since contributing to the development of the helicopter data analytics topic in order to generate business value for AH and its customers.
-Previously, Ammar has been awarded a Ph.D. from the University of Rennes 1 in 2009. He worked on the development of an ontology-based system for brain MRI image annotation. Before joining Airbus, he has been working as 1) post-doc on data integration at the research department of the French Mapping Agency (IGN); 2) research assistant at the LIS Lab of Aix-Marseille University; and 3) software engineer at Thales. Ammar is co-author of more than 20 papers published in peer reviewed conferences / journals; mainly in the computer science / helicopter domains.
-
-<div class="profile-card">
-<img src="https://github.com/multisa2025/multisa2025.icde/assets/45044727/7d2c062f-3157-4b2a-b60c-897abafb6500" alt="Adil">
-<div class="profile-info">
-    <h4>Adil Soubki</h4>
-    <p>Airbus Commercial</p>
-</div>
-</div>
-
-**Bio:** Adil Soubki is a Time Series analytics expert at Airbus Commercial (AIC). He joined Airbus in 2009 as a software engineer, and now, he is working as a Data scientist / Data architect for a time series solution hosting data collected from test & development aircrafts. He contributes to enhancing the usage of IA and data analytics within the test center activity. Graduated from INSA Toulouse in automatic and computer science in 2004, Adil started working as a software engineer at NEXEYA developing test benches.
-
-<div class="profile-card">
-<img src="https://github.com/multisa2025/multisa2025.icde/assets/45044727/4b41cc63-0a4f-4307-9952-8240c2ac04da" alt="Laurent">
-<div class="profile-info">
-    <h4>Laurent Oudre</h4>
-    <p>Centre Borelli, ENS Paris Saclay</p>
-</div>
-</div>
-
-**Bio:** Laurent Oudre is a full professor at the Centre Borelli of the Ecole Normale Supérieure Paris-Saclay (France). He leads a team of more than ten young researchers and has been working for about fifteen years on signal processing, pattern recognition and machine learning for time series. His work covers a wide range of topics: event detection (including change-point, pattern and anomaly detection), feature extraction, unsupervised or semi-supervised approaches, representation learning and graph signal processing. His scientific projects are mainly focused on AI applications in health and industry, often with a strong interdisciplinary component. He is also involved in initiatives around reproducible research and acculturation to AI (especially for the medical community). He is the author of more than 70 patents and articles in international peer-reviewed journals and conferences. He is also the director of the MVA (Mathematics, Vision and Learning) master's degree at the ENS Paris-Saclay, considered one of the best master's degrees in AI in Europe.
-
-<div class="profile-card">
 <img src="https://github.com/multisa2025/multisa2025.icde/assets/45044727/72ea28ce-4e77-4d55-aca3-75dccba1cf33" alt="John">
 <div class="profile-info">
     <h4>John Paparrizos</h4>
