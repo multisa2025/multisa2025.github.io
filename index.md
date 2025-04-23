@@ -159,7 +159,7 @@ All deadlines are 11:59PM AoE.
 </div>
 </div>
 
-**Bio:** Byron Choi obtained his Ph.D and MSE degrees in Computer and Information Science from the University of Pennsylvania in 2006 and 2001, respectively. He received his Bachelor of Engineering degree (with first-class honours) in Computer Engineering from the Hong Kong University of Science and Technology (HKUST). He was awarded the IEEE (Hong Kong Section) prize in 1999. Before joining the Hong Kong Baptist University, He was an Assistant Professor at School of Computer Engineering / Nanyang Technological University (NTU) for three years between 2005 and 2008. He was a research associate at the University of Edinburgh in 2005 and a summer student intern for the Galax project at AT&T Labs Florham Park. He also visited the HKUST theoretical computer science group in 2003.
+**Bio:** Byron Choi is the Associate Head (Teaching and Learning) and a Full Professor at the Department of Computer Science at Hong Kong Baptist University. His research focuses on database systems, particularly time series analysis, visual graph querying, and graph database security. He has served as a reviewer of ACM SIGMOD, PVLDB, IEEE ICDE, and ACM CIKM. He was awarded one of the best reviewers of ACM SIGMOD 2023 and a distinguished program committee member from ACM SIGMOD 2021. He received the distinguished reviewer award from PVLDB 2019. He is an Associate Editor of Distributed and Parallel Databases (DAPD). He is a Fellow of the Hong Kong Institution of Engineers (HKIE), the Information discipline.
 
 <div class="profile-card">
 <img src="https://github.com/user-attachments/assets/2195a9de-45a6-42ff-a19d-233484dd3f6e" alt="Mourad">
