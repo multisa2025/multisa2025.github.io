@@ -104,16 +104,17 @@ All deadlines are 11:59PM AoE.
 ## Program
 - **9:00 Welcome Message**
 
-- **9:05 - 10:00 [Keynote Talk 1: Multivariate Time Series Management and Analysis: An Apache IoTDB Solution](#keynote-talks)** \
+- **9:05 - 10:05 [Keynote Talk 1: Multivariate Time Series Management and Analysis: An Apache IoTDB Solution](#keynote-talks)** \
 *Shaoxu Song, Tsinghua University*
 
-- **10:00 - 10:30 Research Session 1**
+- **10:05 - 10:30 Research Session 1**
   - [Variable Spatiotemporal Framework for Multivariate Time Series Prediction](#program) (18 min) \
     Xu, Chen*; Wang, Qiang; Wu, Yiyang; Li, Lianxing
 
 - **10:30 - 11:00 Coffee Break**
 
-- **11:00 - 12:00 Keynote Talk 2**
+- **11:00 - 12:00 [Keynote Talk 2: Time Series Foundation Models](#keynote-talks)** \
+*Bin Yang, East China Normal University*
 
 - **12:00 - 12:30 Research Session 2**
   - [ChronoTab: Forecasting Multivariate Time Series with Tabular LLMs](#program) (18 min) \
@@ -195,7 +196,13 @@ All deadlines are 11:59PM AoE.
 
 **Bio:** Shaoxu Song is an Associate Professor in the School of Software at Tsinghua University. His research interests include timeseries database, data quality and data mining. He has published more than 80 research papers in top journals and conferences in the area, such as TODS, VLDBJ, TKDE, SIGMOD, KDD, VLDB, and ICDE. Dr. Song served in the editorial (review) boards of PVLDB, JDIQ, JCST and ESWA, the PC Vice-Co-Chair of IEEE BigData 2022/2025 and Area Chair of ACM KDD 2025. He received Outstanding/Distinguished Reviewer awards from KDD 2025, ICDE 2024, VLDB 2019 and CIKM 2017. He is a Senior Member of IEEE.
 
-##### Keynote 2: To be announced
+##### Keynote 2: Time Series Foundation Models
+*Bin Yang, East China Normal University*
+
+**Abstract：** As part of the continued digitalization of processes throughout society, increasingly large volumes of time series are available, ranging from the scientific and medical domains to the industrial and environmental domains. In this talk, we focus on decision making with time series data, e.g., enabling greener and more efficient transportation based on traffic time series forecasting. We introduce our research paradigm of "data-governance-analytics-decision," and the AGREE principles (Automation, Generalization, Robustness, Explainability, and Efficiency). Specifically, we focus on our recent works on time series foundation models for forecasting, anomaly detection, and classification. Finally, we cover time series benchmarking.
+
+**Bio:** Bin Yang is Chair Professor at School of Data Science and Engineering, East China Normal University. He has been a Full Professor in Department of Computer Science, Aalborg University, Denmark. Previously, he was at Max-Planck-Institut für Informatik, Germany, and at Aarhus University, Denmark. He obtained his Ph.D. degree from Fudan University. His research interests cover artificial intelligence and data governance, with a focus on enabling data driven decision making with time series and spatio-temporal data. Recently, much of his research concerns the AGREE principles—Automation, Generalization, Robustness, Explainability, and Efficiency, on a variety of tasks, e.g., forecasting, outlier detection, classification, ranking, searching, and decision making.
+
 
 <!-- Back to top button -->
 <div class="go-to-top">
