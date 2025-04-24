@@ -169,7 +169,8 @@ All deadlines are 11:59PM AoE.
 </div>
 </div>
 
-**Bio:** Mourad Khayati is a Senior Researcher and a Lecturer with the eXascale Infolab group and the Advanced Software Engineering group, respectively, at the Department of Computer Science of the University of Fribourg, Switzerland. He obtained his PhD from the University of Zurich, Switzerland, under the supervision of Prof. Michael Böhlen. His research interests include Time Series analytics and data quality with a special focus on temporal data repair/cleaning. He is the recipient of the VLDB 2020 Best Experiments and Analysis Paper Award.
+**Bio:** Mourad Khayati is a senior researcher and lecturer at the Department of Computer Science of the University of Fribourg, Switzerland. He obtained his PhD from the University of Zurich, Switzerland, under the supervision of Prof. Michael Böhlen. His research interests include Time Series analytics, data repair, missing values imputation, and time series database systems. His imputation benchmark won the VLDB 2020 Most Reproducible Paper Award and his ORBITS system is featured in the VLDB reproducibility highlights. 
+He recently served as an area chair for the Knowledge Data Discovery (KDD) Conference 2025 and the ACM International Conference on Information and Knowledge Management (CIKM) 2020. He regularly serves as a reviewer for various DB and data mining journals and conferences, including, the VLDB Journal, TKDE, KDD, and EDBT.
 
 <!-- <div class="profile-card">
 <img src="https://github.com/multisa2025/multisa2025.icde/assets/45044727/72ea28ce-4e77-4d55-aca3-75dccba1cf33" alt="John">
