@@ -143,31 +143,25 @@ All deadlines are 11:59PM AoE.
 ## Panelists
 <div class="profile-card">
 <img src="https://github.com/user-attachments/assets/db23a84c-1611-4ee9-9997-76d3b2f2f930" alt="Bin">
-<div class="profile-info">
-    <h4>Bin Yang</h4>
-    <p>East China Normal University</p>
 </div>
-</div>
+
+*Bin Yang, East China Normal University*
 
 **Bio:** Bin Yang is Chair Professor at School of Data Science and Engineering, East China Normal University. He has been a Full Professor in Department of Computer Science, Aalborg University, Denmark. Previously, he was at Max-Planck-Institut für Informatik, Germany, and at Aarhus University, Denmark. He obtained his Ph.D. degree from Fudan University. His research interests cover artificial intelligence and data governance, with a focus on enabling data driven decision making with time series and spatio-temporal data. Recently, much of his research concerns the AGREE principles—Automation, Generalization, Robustness, Explainability, and Efficiency, on a variety of tasks, e.g., forecasting, outlier detection, classification, ranking, searching, and decision making.
 
 <div class="profile-card">
 <img src="https://github.com/user-attachments/assets/de62dece-4313-451d-9a7d-482f1be0ded2" alt="Byron">
-<div class="profile-info">
-    <h4>Byron Choi</h4>
-    <p>Hong Kong Baptist University</p>
 </div>
-</div>
+
+*Byron Choi, Hong Kong Baptist University*
 
 **Bio:** Byron Choi is the Associate Head (Teaching and Learning) and a Full Professor at the Department of Computer Science at Hong Kong Baptist University. His research focuses on database systems, particularly time series analysis, visual graph querying, and graph database security. He has served as a reviewer of ACM SIGMOD, PVLDB, IEEE ICDE, and ACM CIKM. He was awarded one of the best reviewers of ACM SIGMOD 2023 and a distinguished program committee member from ACM SIGMOD 2021. He received the distinguished reviewer award from PVLDB 2019. He is an Associate Editor of Distributed and Parallel Databases (DAPD). He is a Fellow of the Hong Kong Institution of Engineers (HKIE), the Information discipline.
 
 <div class="profile-card">
 <img src="https://github.com/user-attachments/assets/2195a9de-45a6-42ff-a19d-233484dd3f6e" alt="Mourad">
-<div class="profile-info">
-    <h4>Mourad Khayati</h4>
-    <p>University of Fribourg, Switzerland</p>
 </div>
-</div>
+
+*Mourad Khayati, University of Fribourg, Switzerland*
 
 **Bio:** Mourad Khayati is a senior researcher and lecturer at the Department of Computer Science of the University of Fribourg, Switzerland. He obtained his PhD from the University of Zurich, Switzerland, under the supervision of Prof. Michael Böhlen. His research interests include Time Series analytics, data repair, missing values imputation, and time series database systems. His imputation benchmark won the VLDB 2020 Most Reproducible Paper Award and his ORBITS system is featured in the VLDB reproducibility highlights. 
 He recently served as an area chair for the Knowledge Data Discovery (KDD) Conference 2025 and the ACM International Conference on Information and Knowledge Management (CIKM) 2020. He regularly serves as a reviewer for various DB and data mining journals and conferences, including, the VLDB Journal, TKDE, KDD, and EDBT.
