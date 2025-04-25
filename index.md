@@ -198,15 +198,10 @@ He recently served as an area chair for the Knowledge Data Discovery (KDD) Confe
 **Bio:** Shaoxu Song is an Associate Professor in the School of Software at Tsinghua University. His research interests include timeseries database, data quality and data mining. He has published more than 80 research papers in top journals and conferences in the area, such as TODS, VLDBJ, TKDE, SIGMOD, KDD, VLDB, and ICDE. Dr. Song served in the editorial (review) boards of PVLDB, JDIQ, JCST and ESWA, the PC Vice-Co-Chair of IEEE BigData 2022/2025 and Area Chair of ACM KDD 2025. He received Outstanding/Distinguished Reviewer awards from KDD 2025, ICDE 2024, VLDB 2019 and CIKM 2017. He is a Senior Member of IEEE.
 
 ##### Keynote 2: Time Series Foundation Models
-*Bin Yang, East China Normal University*
-
 <div class="profile-card">
 <img src="https://github.com/user-attachments/assets/db23a84c-1611-4ee9-9997-76d3b2f2f930" alt="Bin">
-<div class="profile-info">
-    <h4>Bin Yang</h4>
-    <p>East China Normal University</p>
 </div>
-</div>
+*Bin Yang, East China Normal University*
 
 **Abstract：** As part of the continued digitalization of processes throughout society, increasingly large volumes of time series are available, ranging from the scientific and medical domains to the industrial and environmental domains. In this talk, we focus on decision making with time series data, e.g., enabling greener and more efficient transportation based on traffic time series forecasting. We introduce our research paradigm of "data-governance-analytics-decision," and the AGREE principles (Automation, Generalization, Robustness, Explainability, and Efficiency). Specifically, we focus on our recent works on time series foundation models for forecasting, anomaly detection, and classification. Finally, we cover time series benchmarking.
 
