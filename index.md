@@ -140,6 +140,20 @@ All deadlines are 11:59PM AoE.
 </div>
 ---
 
+## Panel Chair
+<div class="profile-card">
+<img src="https://github.com/user-attachments/assets/14b39b96-a848-47f5-ae1b-50ad7e7b5270" alt="Paul">
+<div class="profile-info">
+    <h4>Paul Boniol</h4>
+    <p>Inria, France</p>
+</div>
+</div>
+
+**Bio:** Paul Boniol is a Researcher at Inria, in the VALDA project-team. Previously, he worked at ENS Paris-Saclay, Université Paris Cité, EDF Research, and Ecole Polytechnique. His research interests lie between data management, machine learning, and time-series analysis. His Ph.D. focused on subsequence anomaly detection and time-series classification, and he won several PhD awards, including the Paul Caseau Prize, supported by the Academy of Sciences of France. His work has been published in the top data management and data mining venues.
+
+[Link to CV](https://github.com/user-attachments/files/19908641/Academic_CV_Template.pdf)
+
+
 ## Panelists
 <div class="profile-card">
 <img src="https://github.com/user-attachments/assets/db23a84c-1611-4ee9-9997-76d3b2f2f930" alt="Bin">
