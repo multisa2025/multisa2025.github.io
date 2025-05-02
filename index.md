@@ -186,6 +186,17 @@ All deadlines are 11:59PM AoE.
 **Bio:** Mourad Khayati is a senior researcher and lecturer at the Department of Computer Science of the University of Fribourg, Switzerland. He obtained his PhD from the University of Zurich, Switzerland, under the supervision of Prof. Michael Böhlen. His research interests include Time Series analytics, data repair, missing values imputation, and time series database systems. His imputation benchmark won the VLDB 2020 Most Reproducible Paper Award and his ORBITS system is featured in the VLDB reproducibility highlights. 
 He recently served as an area chair for the Knowledge Data Discovery (KDD) Conference 2025 and the ACM International Conference on Information and Knowledge Management (CIKM) 2020. He regularly serves as a reviewer for various DB and data mining journals and conferences, including, the VLDB Journal, TKDE, KDD, and EDBT.
 
+<div class="profile-card">
+<!-- <img src="https://github.com/user-attachments/assets/2195a9de-45a6-42ff-a19d-233484dd3f6e" alt="Chen"> -->
+<div class="profile-info">
+    <h4>Chen Wang</h4>
+    <p>Tsinghua University, China</p>
+</div>
+</div>
+
+**Bio:** Chen Wang is a Research Associate Professor and CTO at the National Engineering Research Center for Big Data Software, Tsinghua University, where he also serves as Director of the Big Data Research Department at the University's Energy Internet Research Institute. Prior to joining Tsinghua University, he was a Research Staff Member and Senior Manager in the Information Management Research Department at IBM Research China. His research focuses on database systems, data governance, time-series data management, and industrial big data applications. A founding member and PMC member of the Apache IoTDB project, Prof. Wang currently also holds the position of Chief Scientist at Timecho Inc., the commercial entity driving IoTDB's industry adoption. Additional academic profiles can be accessed via his homepage: https://wc81.github.com
+
+
 <!-- <div class="profile-card">
 <img src="https://github.com/multisa2025/multisa2025.icde/assets/45044727/72ea28ce-4e77-4d55-aca3-75dccba1cf33" alt="John">
 <div class="profile-info">
