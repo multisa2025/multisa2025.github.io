@@ -102,12 +102,12 @@ All deadlines are 11:59PM AoE.
 ---
 
 ## Program
-- **9:00 Welcome Message**
+- **9:00 - 9:10 Welcome Message**
 
-- **9:05 - 10:05 [Keynote Talk 1: Multivariate Time Series Management and Analysis: An Apache IoTDB Solution](#keynote-talks)** \
+- **9:10 - 10:15 [Keynote Talk 1: Multivariate Time Series Management and Analysis: An Apache IoTDB Solution](#keynote-talks)** \
 *Shaoxu Song, Tsinghua University*
 
-- **10:05 - 10:30 Research Session 1**
+- **10:15 - 10:30 Research Session 1 (Session Chair: Peng Wang, Fudan University)**
   - [Variable Spatiotemporal Framework for Multivariate Time Series Prediction](#program) (18 min) \
     Xu, Chen*; Wang, Qiang; Wu, Yiyang; Li, Lianxing
 
@@ -116,17 +116,17 @@ All deadlines are 11:59PM AoE.
 - **11:00 - 12:00 [Keynote Talk 2: Time Series Foundation Models](#keynote-talks)** \
 *Bin Yang, East China Normal University*
 
-- **12:00 - 12:30 Research Session 2**
+- **12:00 - 12:30 Research Session 2  (Session Chair: Peng Wang, Fudan University)**
   - [ChronoTab: Forecasting Multivariate Time Series with Tabular LLMs](#program) (18 min) \
     Zeakis, Alexandros*; Chatzigeorgakidis, Giorgos; Lentzos, Konstantinos; Skoutas, Dimitrios
 
 - **12:30 - 14:00 Lunch Break**
 
-- **14:00 - 15:30 Panel Discussion**
+- **14:00 - 15:30 Panel Discussion (Panel Chair: Paul Boniol, Inria, ENS, PSL, CNRS)**
 
 - **15:30 - 16:00 Coffee Break**
 
-- **16:00 - 17:30 Research Session 3**
+- **16:00 - 17:30 Research Session 3  (Session Chair: Paul Boniol, Inria, ENS, PSL, CNRS)**
   - [MI4TSC: Evaluating Missing Value Imputation Methods for Time Series Classification](#program) (18 min) \
     Ding, Xiaoou*; Peng, Cong; Zhou, Muyun; Wang, Hongzhi; Pei, Zhongyi; Wang, Chen; Wang, Jianmin
   - [User-friendly Foundation Model Adapters for Multivariate Time Series Classification](#program) (18 min) \
