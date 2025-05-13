@@ -108,7 +108,7 @@ All deadlines are 11:59PM AoE.
 *Shaoxu Song, Tsinghua University*
 
 - **10:15 - 10:30 Research Session 1 (Session Chair: Peng Wang, Fudan University)**
-  - [Variable Spatiotemporal Framework for Multivariate Time Series Prediction](#program) (18 min) \
+  - [Variable Spatiotemporal Framework for Multivariate Time Series Prediction](#program) \
     Xu, Chen*; Wang, Qiang; Wu, Yiyang; Li, Lianxing
 
 - **10:30 - 11:00 Coffee Break**
@@ -117,7 +117,7 @@ All deadlines are 11:59PM AoE.
 *Bin Yang, East China Normal University*
 
 - **12:00 - 12:30 Research Session 2  (Session Chair: Peng Wang, Fudan University)**
-  - [ChronoTab: Forecasting Multivariate Time Series with Tabular LLMs](#program) (18 min) \
+  - [ChronoTab: Forecasting Multivariate Time Series with Tabular LLMs](#program)\
     Zeakis, Alexandros*; Chatzigeorgakidis, Giorgos; Lentzos, Konstantinos; Skoutas, Dimitrios
 
 - **12:30 - 14:00 Lunch Break**
@@ -127,11 +127,11 @@ All deadlines are 11:59PM AoE.
 - **15:30 - 16:00 Coffee Break**
 
 - **16:00 - 17:30 Research Session 3  (Session Chair: Paul Boniol, Inria, ENS, PSL, CNRS)**
-  - [MI4TSC: Evaluating Missing Value Imputation Methods for Time Series Classification](#program) (18 min) \
+  - [MI4TSC: Evaluating Missing Value Imputation Methods for Time Series Classification](#program) \
     Ding, Xiaoou*; Peng, Cong; Zhou, Muyun; Wang, Hongzhi; Pei, Zhongyi; Wang, Chen; Wang, Jianmin
-  - [User-friendly Foundation Model Adapters for Multivariate Time Series Classification](#program) (18 min) \
+  - [User-friendly Foundation Model Adapters for Multivariate Time Series Classification](#program) \
     Ilbert, Romain*; Feofanov, Vasilii; Tiomoko, Malik; Redko, Ievgen; Palpanas, Themis
-  - [MULISSE: Variable-Length Similarity Search for Multivariate Time Series](#program) (18 min) \
+  - [MULISSE: Variable-Length Similarity Search for Multivariate Time Series](#program) \
     Pelok, Balázs; d'Hondt, Jens*
 
 <!-- Back to top button -->
